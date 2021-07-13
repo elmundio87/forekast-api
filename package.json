@@ -1,0 +1,10 @@
+{
+  "name": "forekast-api",
+  "version": "1.0.0",
+  "description": "Serverless implementation of the internet_calendar python package",
+  "author": "",
+  "devDependencies": {
+    "serverless-python-requirements": "^5.1.0",
+    "serverless-wsgi": "^1.7.6"
+  }
+}
